@@ -1,0 +1,13 @@
+C:\Users\GG\Desktop\C#\c#SecondSection\SystemIO\SystemIOWindowsForm\bin\Debug\SystemIOWindowsForm.exe.config
+C:\Users\GG\Desktop\C#\c#SecondSection\SystemIO\SystemIOWindowsForm\bin\Debug\SystemIOWindowsForm.exe
+C:\Users\GG\Desktop\C#\c#SecondSection\SystemIO\SystemIOWindowsForm\bin\Debug\SystemIOWindowsForm.pdb
+C:\Users\GG\Desktop\C#\c#SecondSection\SystemIO\SystemIOWindowsForm\obj\Debug\SystemIOWindowsForm.csproj.AssemblyReference.cache
+C:\Users\GG\Desktop\C#\c#SecondSection\SystemIO\SystemIOWindowsForm\obj\Debug\SystemIOWindowsForm.Form1.resources
+C:\Users\GG\Desktop\C#\c#SecondSection\SystemIO\SystemIOWindowsForm\obj\Debug\SystemIOWindowsForm.Properties.Resources.resources
+C:\Users\GG\Desktop\C#\c#SecondSection\SystemIO\SystemIOWindowsForm\obj\Debug\SystemIOWindowsForm.csproj.GenerateResource.cache
+C:\Users\GG\Desktop\C#\c#SecondSection\SystemIO\SystemIOWindowsForm\obj\Debug\SystemIOWindowsForm.csproj.CoreCompileInputs.cache
+C:\Users\GG\Desktop\C#\c#SecondSection\SystemIO\SystemIOWindowsForm\obj\Debug\SystemIOWindowsForm.exe
+C:\Users\GG\Desktop\C#\c#SecondSection\SystemIO\SystemIOWindowsForm\obj\Debug\SystemIOWindowsForm.pdb
+C:\Users\GG\Desktop\C#\c#SecondSection\SystemIO\SystemIOWindowsForm\bin\Debug\FakeData.dll
+C:\Users\GG\Desktop\C#\c#SecondSection\SystemIO\SystemIOWindowsForm\bin\Debug\FakeData.pdb
+C:\Users\GG\Desktop\C#\c#SecondSection\SystemIO\SystemIOWindowsForm\obj\Debug\SystemIO.66F808EF.Up2Date
